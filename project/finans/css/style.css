@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.space-box{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+@media(max-width: 835px) and (min-width: 300px){
+    #main-title{
+        font-size:39px;
+    }
+
+}
